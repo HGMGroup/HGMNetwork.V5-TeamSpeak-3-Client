@@ -11,7 +11,7 @@ GitHub/Google Sunucularındaki kota haklarını sürekli olarak
 aşmaktadır.
 
 Bu nedenle Script dosyalarına
-Açık-Kaynak-Erişim'iniz maalesef GitHub eliyle engelleniyor.
+Açık-Kaynak-Erişiminiz maalesef GitHub eliyle engelleniyor.
 
 Tabii bu bizim Açık Kaynak Dosya paylaşmamıza engel değil.
 Bu mesajın bulunduğu söz Konusu GitHub Depolarındaki dosyalar 
