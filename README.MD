@@ -1,7 +1,7 @@
 ##==========================================================##
- HGMNetwork.v5 Script Bilgilendirme Mesajı;
+          HGMNetwork.v5 Script Bilgilendirme Mesajı;
 ##==========================================================##
-## Olay-Kodu: HGMNetwork-Hata-Çözüm-190721-5237-220921-5238 ##
+   Olay-Kodu: HGMNetwork-Hata-Çözüm-190721-5237-220921-5238
 ##==========================================================##
 Detay;
 
